@@ -43,8 +43,7 @@ Swagger UI
 
 http://127.0.0.1:8000/docs
 
-Alternative docs
-http://127.0.0.1:8000/redoc
+
 📌 Available Endpoints
 General
 Method	Endpoint	Description
